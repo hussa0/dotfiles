@@ -8,5 +8,5 @@ alias -- -="cd -"
 
 # Shortcuts
 alias p="pnpm"
-
+alias nv="nvim"
 
