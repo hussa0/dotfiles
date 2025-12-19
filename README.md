@@ -1,1 +1,1 @@
-Handy UNIX shortcuts.
+Handy shortcuts.
