@@ -1,2 +1,5 @@
 [alias]
     cm = commit -m
+[user]
+	name = hussa0
+	email = 59232894+hussa0@users.noreply.github.com
